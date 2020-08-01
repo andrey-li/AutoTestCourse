@@ -1,2 +1,4 @@
 # AutoTestCourse
 homework
+
+Hello, World!
